@@ -1,9 +1,3 @@
-Here is your **perfectly formatted README**, with the **Screenshots section fixed**, valid markdown, and properly structured image embeds.
-
-You can directly paste this into **README.md**.
-
----
-
 # Employee Task Management System
 
 This project was created for a **ProU assessment**.
@@ -29,13 +23,13 @@ The system allows users to:
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 Follow the steps below to run the project locally.
 
 ---
 
-## 🔧 Backend (FastAPI)
+## Backend (FastAPI)
 
 ```bash
 cd backend
@@ -48,13 +42,11 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-Backend will run at:
-
-👉 **[http://localhost:8000](http://localhost:8000)**
+Backend will run at: **[http://localhost:8000](http://localhost:8000)**
 
 ---
 
-## 💻 Frontend (React + Vite)
+## Frontend (React + Vite)
 
 ```bash
 cd frontend
@@ -62,21 +54,19 @@ npm install
 npm run dev
 ```
 
-Frontend will run at:
-
-👉 **[http://localhost:5173](http://localhost:5173)**
+Frontend will run at: **[http://localhost:5173](http://localhost:5173)**
 
 ---
 
-## ⚡ Important
+## Important
 
-You **must run both servers** (frontend and backend) at the same time for the full application to work correctly.
+You must run both servers (frontend and backend) at the same time for the full application to work correctly.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🔐 Login Page
+### Login Page
 
 <img width="1919" alt="Login" src="https://github.com/user-attachments/assets/bd44885d-09fb-4e96-88c6-c39b28688e9c" />
 
@@ -84,19 +74,19 @@ You **must run both servers** (frontend and backend) at the same time for the fu
 
 ---
 
-### 🧑‍💼 Employee Management
+### Employee Management
 
 <img width="1919" alt="Employees" src="https://github.com/user-attachments/assets/4738c28b-3e0a-4b0e-8f18-2b51ff66abc3" />
 
 ---
 
-### 📋 Task Management
+### Task Management
 
 <img width="1919" alt="Tasks" src="https://github.com/user-attachments/assets/eb11bd60-50e1-469e-977c-a0e7179a78c2" />
 
 ---
 
-### 📊 Dashboard
+### Dashboard
 
 <img width="1919" alt="Dashboard" src="https://github.com/user-attachments/assets/ead295de-36ca-41d3-9743-1c930083b608" />
 
