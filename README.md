@@ -1,4 +1,8 @@
+Here is your **perfectly formatted README**, with the **Screenshots section fixed**, valid markdown, and properly structured image embeds.
 
+You can directly paste this into **README.md**.
+
+---
 
 # Employee Task Management System
 
@@ -72,25 +76,29 @@ You **must run both servers** (frontend and backend) at the same time for the fu
 
 ## 📸 Screenshots
 
-Upload your screenshots inside a folder named `screenshots/` and update the paths below.
-
-```markdown
 ### 🔐 Login Page
-![Login Page]<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/bd44885d-09fb-4e96-88c6-c39b28688e9c" />
-<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/720f9c85-05e6-410f-9878-d60ef2f9302e" />
 
+<img width="1919" alt="Login" src="https://github.com/user-attachments/assets/bd44885d-09fb-4e96-88c6-c39b28688e9c" />
+
+<img width="1919" alt="Login2" src="https://github.com/user-attachments/assets/720f9c85-05e6-410f-9878-d60ef2f9302e" />
+
+---
 
 ### 🧑‍💼 Employee Management
-![Employee Management]<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/4738c28b-3e0a-4b0e-8f18-2b51ff66abc3" />
+
+<img width="1919" alt="Employees" src="https://github.com/user-attachments/assets/4738c28b-3e0a-4b0e-8f18-2b51ff66abc3" />
+
+---
 
 ### 📋 Task Management
-![Task Management]<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/eb11bd60-50e1-469e-977c-a0e7179a78c2" />
 
+<img width="1919" alt="Tasks" src="https://github.com/user-attachments/assets/eb11bd60-50e1-469e-977c-a0e7179a78c2" />
+
+---
 
 ### 📊 Dashboard
-![Dashboard]<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/ead295de-36ca-41d3-9743-1c930083b608" />
 
-```
+<img width="1919" alt="Dashboard" src="https://github.com/user-attachments/assets/ead295de-36ca-41d3-9743-1c930083b608" />
 
 ---
 
